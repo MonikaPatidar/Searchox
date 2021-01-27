@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image:url("images/blurred-background-design_1107-224.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.registration_Form{
+  margin-top: 2%;
+}
+
+.formcolor{
+  background-image:url("http://itrfhealth.ap-south-1.elasticbeanstalk.com/img/loginbg.jpg");
+}
+.table_container{
+  width:100%;
+}
+.ui .segment{
+  background-color: white;
+  border:2px solid  #e3e0d8;
+  border-radius:40px;
+} 
+.ui .button{
+  background-color: #d2d2d4;
+  color:black;
+  margin-left: 35%;
+  margin-top: 2%;
+  
+}
+.ui .form{
+  margin: 4%;
+}
+.labelColor{
+color: #808a82;
+}
+
+/* .column{
+  background-color: white;
+  border:2px solid  white;
+  border-radius:30px;
+} */
+
+/* .ui .celled .table{
+  /* margin-left: 10%;
+  margin-right: 10%; */
+
+  .table_div{
+    margin-left: 10%;
+  margin-right: 10%;
+  }
+  .table_span{
+    width:100%;
+    border:2px solid green;
+  }
+  .table_tr{
+    width:100%;
+    border:2px solid green;
+  }
+
+  .ui .celled .table{
+    border:2px solid green;
+  }
+ 
